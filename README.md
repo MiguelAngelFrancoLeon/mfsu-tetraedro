@@ -187,7 +187,7 @@ V4.0 contained untestable claims (multiverses, wormholes, portals). **V5.0 restr
 ```bibtex
 @article{franco2024mfsut,
   title={MFSU-T: Tetrahedral Reformulation of the Unified Fractal-Stochastic Model},
-  author={Franco León, Miguel Ángel and Gemini, LLM},
+  author={Franco León, Miguel Ángel},
   journal={GitHub Repository},
   year={2026},
   url={[https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro](https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro)}
