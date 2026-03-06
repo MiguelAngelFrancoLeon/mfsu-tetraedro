@@ -253,7 +253,7 @@ If you use this work, please cite:
 
 ### **Or in Text**:
 
-Franco León, M.Á. (2026). *Exact Algebraic Prediction of the Spectral Dimension in Quantum Gravity from Tetrahedral Vacuum Structure*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Franco León, M.Á. (2026). *Exact Algebraic Prediction of the Spectral Dimension in Quantum Gravity from Tetrahedral Vacuum Structure*. Zenodo. https://doi.org/10.5281/zenodo.18884181
 
 ---
 
