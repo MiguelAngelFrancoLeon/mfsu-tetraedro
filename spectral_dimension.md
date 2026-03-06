@@ -246,7 +246,7 @@ If you use this work, please cite:
   year = {2026},
   month = {March},
   journal = {Zenodo},
-  doi = {10.5281/zenodo.18810945},
+  doi = {10.5281/zenodo.18884181},
   note = {Also available at arXiv:XXXX.XXXXX}
 }
 ```
@@ -271,7 +271,7 @@ Franco León, M.Á. (2026). *Exact Algebraic Prediction of the Spectral Dimensio
    - Zenodo: 10.5281/zenodo.XXXXXXX
 
 4. **This work** (2026): Spectral dimension d_s = ln 8
-   - Zenodo: 10.5281/zenodo.18810945
+   - Zenodo: 10.5281/zenodo.18884181
 
 ### **Key References**:
 
