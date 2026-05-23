@@ -8,8 +8,7 @@
 
 ## Algebraic derivation chain (zero fitted parameters)
 z_fund = 4 → D_eff = ln 8 ≈ 2.079 → σ_UV = 0.3263 → N_bits = 3 (exact) → σ_eff = 0.1088
-plain
-Copy
+
 
 **Empirical confirmation:** 171 SPARC galaxies, RMSE = 0.152 dex, σ_eff confirmed to 0.72% with zero fitting.
 
