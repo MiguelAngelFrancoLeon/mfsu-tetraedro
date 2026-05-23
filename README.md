@@ -17,7 +17,7 @@ Copy
 
 ## Z-sweep validation (175 SPARC galaxies)
 
-![TEG z-sweep](fig_zsweep.png)
+![TEG z-sweep](fig_zsweep.jpg)
 
 **Result:** `z = 4` (tetrahedron) achieves minimum RMSE with σ_eff fully derived at each z — zero fitting anywhere.
 
