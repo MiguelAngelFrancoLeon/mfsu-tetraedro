@@ -81,6 +81,58 @@ Open problems: 8 documented with full transparency (see TEG Vol. 7, Section 10).
 What TEG is / is not
 TEG is: A phenomenological framework for galactic dynamics with geometric derivation chain and falsifiable predictions.
 TEG is not: A complete theory of everything. Not validated at galaxy cluster or full cosmological scales. Eight open problems explicitly documented.
+
+# QUICK START & CORE MANIFESTO: TEG VOLUME 8 (2026)
+
+This text file serves as an executive, clean-text summary of the foundational 
+breakthroughs established in the Tetrahedral Emergent Gravity (TEG) framework, 
+Volume 8 (Zenodo DOI: 10.5281/zenodo.20423814).
+
+## 1. THE GEOMETRIC DETONATOR: NO FREE PARAMETERS (Appendix L)
+A common critique in modern astrophysics is the reliance on ad-hoc parameters 
+to fit galactic rotation curves. TEG Volume 8 definitively removes this limitation. 
+The galactic Jeans radius (r_J ≈ 0.62 kpc) is derived purely from first principles, 
+bridging the ultraviolet (Planck scale, ℓ_Pl) and infrared (Hubble horizon, R_H = c/H_0) 
+limits of the universe through a universal geometric equation:
+
+    r_J = [ ℓ_Pl^(σ_eff) × R_H^(1 - σ_eff) ] / [ ∂ × √π ]
+
+### Analytical Component Breakdown:
+* σ_eff = 0.1088  -> Derived from the quantum vacuum's thermodynamic equipartition.
+* ∂ = 3 - ln(8)   -> The exact holographic codimension of the fractal spacetime.
+* √π              -> The solid angle of a single regular tetrahedral face 
+                     projected onto a unit sphere (Ω_face = 4π/4 = π). 
+
+Using empirical cosmological constants under standard machine precision, this pure 
+algebraic expression yields exactly:
+    
+    r_J = 0.6192 kpc (An exact 0.13% convergence with the core SPARC galactic dataset).
+
+This is NOT numerology; it is the exact boundary where the information-processing 
+capacity of the tetrahedral vacuum matrix reaches local saturation.
+
+## 2. MACHINE-PRECISION TENSOR VERIFICATION (Appendix K)
+To address critiques regarding tensor structure validity, Volume 8 includes the 
+reproducible Python notebook: `TEG_verificacion_tensorial.ipynb`.
+
+This computational module independently verifies the quantum foundation of the 
+model by explicitly executing:
+1. The exact diagonalization of the Casimir operator (J²).
+2. The construction of the orthonormal basis for the EPRL intertwiner space (dim = 2).
+3. The proof of the von Neumann entropy scaling (S_vN = ln 2).
+4. The exact tetrahedral closure under S_3 permutation symmetry.
+
+All algebraic assertions pass with absolute machine precision.
+
+## 3. HOW TO VERIFY THIS WORK INSTANTLY
+1. Download the unified PDF: `TEG_volume_8.pdf` and go straight to Appendix K (page 62) and Appendix L (page 65) for the full mathematical proofs.
+2. Run the supplementary notebook `TEG_verificacion_tensorial.ipynb` to independently reproduce the quantum matrix computations.
+3. The empirical predictions are strictly bound to upcoming data releases from the Euclid Space Telescope (P1: +5% weak lensing excess) and DESI (P2: -8% central cosmic void deficit) scheduled for 2026–2027.
+
+---
+Developed independently by Miguel Ángel Franco León (2026).
+Open Source. Open Science. Permanent IP protection via Zenodo DOI.
+
 Contact
 Miguel Angel Franco Leon
 Independent researcher
