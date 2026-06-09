@@ -1,0 +1,21 @@
+# Tetrahedral Emergent Gravity (TEG)
+
+> Unified Fractal-Stochastic Model (MFSU) and Tetrahedral Emergent Gravity framework. A parameter-free phenomenological framework for galactic dynamics and cosmological fractions derived entirely from geometric first principles and quaternion vacuum mechanics.
+
+## Core Documentation
+
+- [README.md](./README.md) : Local Galactic Layer (R³). Contains the galactic dynamics framework, tetrahedral network selection ($z_{\text{fund}} = 4$) via holographic entropy maximization, and empirical validation using 171 SPARC galaxies with zero fitted parameters.
+- [TEG_vH2.md](./TEG_vH2.md) : Cosmological Gauge Layer (H / S³). Proves $z_{\text{fund}} = 4$ as a projection theorem of the 5-cell regular 4-polytope from the quaternion vacuum space ($\mathbb{H} \rightarrow \mathbb{R}^3$). Derives exact dark matter fraction $\Omega_{\text{DM}} = \frac{2\ln(3/2)}{3} \approx 0.2703$ and baryon fraction candidate $\Omega_b \approx 0.0516$.
+
+## Scripts & Reproducibility
+
+- [sparc_zsweep.py](./sparc_zsweep.py) : Python execution script to reproduce the galactic Z-sweep validation across the SPARC dataset in under 5 minutes.
+- [teg_derivation_verify.py](./teg_derivation_verify.py) : Pure numerical verification script proving the algebraic derivation chain to machine precision.
+- [TEG_verificacion_tensorial.ipynb](./TEG_verificacion_tensorial.ipynb) : Supplementary notebook validating Appendix K tensor foundations (Casimir operator diagonalization, EPRL intertwiner space, and S₃ permutation symmetry).
+
+## Key Parameters & Identities (Derived)
+
+- `z_fund = 4` : Selected uniquely by maximizing information density among Platonic solids.
+- `D_eff = ln 8` : Effective Hausdorff and spectral dimension ($d_s$) emerging from orientation duality.
+- `sigma_eff = 0.1088` : Effective UV roughness forced by S³-invariant maximum-entropy state partition.
+- `Omega_DM = 0.2703` : Cosmological dark matter fraction derived from the absolute geometric frustration ratio.
