@@ -1137,6 +1137,34 @@ print('=' * 60)
 
 ---
 
+
+## Evolution of the Theory: from TEG v8 to TEG vH2
+
+**TEG v8 (previous version)**  
+Worked directly in $\mathbb{R}^3$. It postulated as a hypothesis that the quantum vacuum selects tetrahedral coordination $z_{\rm fund}=4$ because it maximizes holographic entropy density among Platonic solids. With this single geometric axiom, it derived galactic rotation curves, $D_{\rm eff}=\ln 8$, $\sigma_{\rm eff}$, and other properties with zero free parameters, achieving excellent agreement on 171 SPARC galaxies.
+
+**TEG vH2 / v4 (current version)**  
+Goes deeper into the foundation. We now propose that **the quantum vacuum is fundamentally a quaternion field on $\mathbb{H}$** (topologically $S^3$). All observed physics in $\mathbb{R}^3$ emerges as the natural projection $\pi: \mathbb{H} \to \mathbb{R}^3$.
+
+In this picture:
+- The 5-cell $\{3,3,3\}$ in $S^3$ is the fundamental polytope.
+- Its projection yields the regular tetrahedron in $\mathbb{R}^3$.
+- The coordination $z_{\rm fund}=4$ ceases to be a hypothesis and becomes a **theorem**.
+- Dark matter appears naturally as the "shadow" of the holographic bit lost during the projection ($\Delta S = \ln 2$).
+
+### Relationship between both versions
+
+**TEG v8 is not wrong** — it correctly describes the **effective physics** in the projected space $\mathbb{R}^3$.
+
+The new version (vH2) explains **why** the vacuum in $\mathbb{R}^3$ chooses tetrahedra: because it is the projected image of the 5-cell in $S^3$. Everything that worked in v8 (rotation curves, effective parameters, numerical validations, etc.) is preserved, but now rests on a deeper foundation and several key results become theorems.
+
+**In summary:**
+
+- **TEG v8** → Effective description in $\mathbb{R}^3$ (phenomenological)
+- **TEG vH2** → Fundamental description in $\mathbb{H}$ (4 real dimensions) + projection to $\mathbb{R}^3$
+
+This evolution maintains all the predictive power of the previous version while converting hypotheses into theorems and providing a more unified geometric and informational framework.
+
 *"The model stands or falls on its predictions. That is science."*
 
 **— Miguel Ángel Franco León, May 2026**
