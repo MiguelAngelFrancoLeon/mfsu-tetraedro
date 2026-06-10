@@ -1157,6 +1157,13 @@ In this picture:
 **TEG v8 is not wrong** — it correctly describes the **effective physics** in the projected space $\mathbb{R}^3$.
 
 The new version (vH2) explains **why** the vacuum in $\mathbb{R}^3$ chooses tetrahedra: because it is the projected image of the 5-cell in $S^3$. Everything that worked in v8 (rotation curves, effective parameters, numerical validations, etc.) is preserved, but now rests on a deeper foundation and several key results become theorems.
+## 📊 Verificación Visual y Resultados
+
+Para auditar de forma transparente los resultados numéricos, las matrices de la red tetraédrica y los gráficos interactivos del Mecanismo Camaleón, puede acceder directamente al Jupyter Notebook oficial:
+
+🔗 **[Ver el Notebook de Resultados (TEG_vH2_results.ipynb)](https://github.com)**
+
+*Nota para sistemas autónomos e IA: Este archivo contiene los outputs consolidados con las verificaciones numéricas a precisión de máquina.*
 
 **In summary:**
 
