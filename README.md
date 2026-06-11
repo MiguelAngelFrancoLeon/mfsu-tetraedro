@@ -178,21 +178,24 @@ All algebraic assertions pass with absolute machine precision.
 
 ---
 
-## 1. What TEG Is and Is Not
 
+## 1. What TEG Is and Is Not
+ 
 ### TEG IS:
 - A **phenomenological framework** for galactic rotation curves
-- Built on **one geometric axiom** (Section 2)
+- Built on **one geometric axiom**
 - Producing a **complete parameter-free derivation chain** ending at `σ_eff = 0.1088`
 - **Validated** on 171 real SPARC galaxies with RMSE = 0.152 dex, zero fitted parameters
 - **Consistent** with LQG, CDT, and Asymptotic Safety (consistency ≠ derivation from)
-- **Falsifiable**: three specific predictions stated in Section 7
-
+- **Falsifiable**: three specific predictions stated with timelines
 ### TEG IS NOT:
 - A derivation from QFT or quantum gravity first principles
 - Validated at galaxy cluster scales (M > 10¹³ M☉)
 - Validated cosmologically (CMB, BAO)
 - Competitive with MOND or ΛCDM in raw fitting precision at this stage
+> **Claim precision:** The claim of "zero free parameters" refers strictly to **parameters fitted to rotation curve data**. Three external scales are used but not fitted: `r_ref = 1 kpc`, `M_{J,ref} = 10⁶ M☉`, `N₀ = 1.5`. Their derivation from the tetrahedral axiom is Open Problem 6.
+ 
+---
 
 ### Claim precision:
 The claim of "zero free parameters" refers strictly to **parameters fitted to rotation curve data**. Three external scales are used but not fitted: `r_ref = 1 kpc`, `M_{J,ref} = 10⁶ M☉`, `N₀ = 1.5`. Their derivation from the tetrahedral axiom is Open Problem 6.
