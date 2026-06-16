@@ -219,22 +219,22 @@ The claim of "zero free parameters" refers strictly to **parameters fitted to ro
 2. `z_fund = 4` is the unique Platonic coordination giving `N_bits = log₂(2·z_fund) = 3`, an exact integer equal to `dim(ℝ³)`
 3. The z-sweep on 171 SPARC galaxies confirms z = 4 as the empirical minimum (Section 8)
 
----
 ## 🏛️ Theoretical Core: The Duality of Mass vs. Information
 
 TEG vH2 transitions the fundamental tetrahedral coordination ($z_{\text{fund}} = 4$) from a hypothesis to a proven **theorem** using the **Minimal Simplex Principle** in $\mathbb{R}^d$ ($z(d) = d + 1$). 
 
-However, the physical bridge to cosmology requires solving the **Geometric Frustration** equation ($z_{\text{pack}} - z_{\text{fund}} = 8$), which couples two independent geometric boundaries:
+However, the physical bridge to cosmology requires solving the **Geometric Frustration** equation, which couples two independent geometric boundaries:
 
-1. **Information Density Maxima ($z_{\text{fund}} = 4$):** Maximizes the quantum information-carrying capacity per boundary node in the tetrahedral vacuum matrix (Proved in Proposition 3.1).
-2. **Mass Density Maxima ($z_{\text{pack}} = 12$):** The classical Schütte & van der Waerden kissing-number theorem, which dictates the densest possible sphere-packing coordination in $\mathbb{R}^3$.
+1. **Information Density Maxima ($z(3) = 4$):** Maximizes the quantum information-carrying capacity per boundary node in the tetrahedral vacuum matrix (Proved in Proposition 3.1).
+2. **Mass Density Maxima ($z_{\text{pack}}(\mathbb{R}^3) = 12$):** The classical Schütte & van der Waerden kissing-number theorem, which dictates the densest possible sphere-packing coordination in $\mathbb{R}^3$.
 
-### 🔬 Physical Meaning of Geometric Frustration
-Under **Hypothesis H0 (inherited from TEG v8)**, the vacuum network carries quantum information rather than packed mass. Therefore, the arithmetic difference:
-$$z_{\text{pack}} - z_{\text{fund}} = 12 - 4 = 8$$
-is not arbitrary subtraction. It explicitly counts the **links per node that are geometrically available to dense matter but left unoccupied by the information-carrying vacuum structure**. 
+### 🔬 Physical Meaning of Geometric Frustration (Hypothesis H0)
+Under **Hypothesis H0 (inherited from TEG v8)**, the vacuum network carries quantum information rather than packed mass. Therefore, the new identity unique to $d=3$:
+$$z_{\text{pack}}(\mathbb{R}^3) - z(3) = 12 - 4 = 8 = 2^{N_{\text{bits}}(3)}$$
+is not a mere arithmetic coincidence between two independent theorems. It explicitly counts the **links per node that are geometrically available to dense matter but left unoccupied by the information-carrying vacuum structure**. 
 
-This physical distinction licenses the derivation of the exact cosmological dark-matter fraction ($\Omega_{\text{DM}} \approx 0.2703$) from pure geometric invariants, decoupling the derivation from mere numerological coincidence.
+This mass-vs-information distinction licenses treating the geometric residue as physical "frustration," enabling the algebraic derivation of the exact cosmological dark-matter fraction ($\Omega_{\text{DM}} \approx 0.2703$) without unconstrained fit parameters.
+
 
 ## 3. Complete Derivation Chain — Step by Step
 
