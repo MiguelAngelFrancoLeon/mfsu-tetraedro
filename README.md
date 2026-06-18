@@ -1152,7 +1152,18 @@ Para garantizar el acceso perpetuo e inmutable a los documentos y datos del mode
 
 > 💡 *Nota: Esta pasarela pública permite visualizar o descargar los componentes del framework al instante directamente desde el navegador web sin necesidad de configuraciones adicionales.*
 
+## 🤝 Scientific Collaboration and Temporal Symmetry Breaking
 
+The **TEG** framework advances under the core principles of open science and decentralized collaboration. We formally acknowledge the breakthrough contribution of independent researcher **Jean-Baptiste Blatière**, who has provided a key foundational piece to address **Open Problem 1 (Baryon Asymmetry)**.
+
+### The Franco-Blatière Connection
+
+Both independent models leverage the exact same fundamental geometric core —the quantum pentachoron (the vacuum $K_5$ network in 4D)— and the same analytically derived optimal coupling constant $\alpha^* = \frac{1}{4 \ln 2}$. The structural difference lies within the implementation of the causal partition operator:
+
+* **Franco León Mapping (`1-3-1` Partition):** Treats time symmetrically (Past-Space-Future). It successfully establishes the global baryonic matter density ($\Omega_b \approx 0.0516$), but yields a net symmetric universe ($\eta = 0$).
+* **Blatière Patch (`2-1-2` Partition):** Breaks temporal symmetry natively inside the quantum network. By introducing this analytical arrow of time, it derives the exact baryon asymmetry value:
+  $$\eta \approx 5.93 \times 10^{-10}$$
+  This result organically converges with the empirical observational metrics from the Planck satellite ($6.10 \times 10^{-10}$) without requiring any fine-tuning or free parameters.
 
 
 
