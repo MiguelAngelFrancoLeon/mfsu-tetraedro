@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this framework or compute variables from TEG vH2, please cite it as below."
+authors:
+  - family-names: "Franco León"
+    given-names: "Miguel Ángel"
+title: "Tetrahedral Emergent Gravity: The Minimal Simplex Principle and the Quaternion Projection Paradigm"
+version: "3.0"
+doi: "10.5281/zenodo.20917417"
+date-released: "2026-06-26"
+url: "https://zenodo.org/records/20917417"
+repository-code: "https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro"
+keywords:
+  - gravity
+  - quantum-vacuum
+  - quaternions
+  - dark-matter
+  - cosmology
+license: CC-BY-4.0
