@@ -1,4 +1,4 @@
-# Tetrahedral Emergent Gravity vH2
+# Tetrahedral Emergent Gravity vH
 ## The Minimal Simplex Principle and the Quaternion Projection Paradigm
 
 **Author:** Miguel Ángel Franco León  
@@ -456,17 +456,13 @@ Per the formal disclosure on Page 2, certain exploratory sectors remain open for
 
 ## 📑 Formal Citation
 
-```bibtex
-@misc{franco2026teg_vH2,
-  author       = {Miguel Ángel Franco León},
-  title        = {Tetrahedral Emergent Gravity vH2: The Minimal Simplex Principle and the Quaternion Projection Paradigm},
-  month        = {June},
-  year         = {2026},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.20555286},
-  url          = {https://doi.org}
-}
-```
+\bibitem{franco2026teg_vH3}
+M.~A.~Franco León,
+\emph{Tetrahedral Emergent Gravity: The Minimal Simplex Principle and the Quaternion Projection Paradigm},
+Version 3.0, Zenodo (2026),
+doi:10.5281/zenodo.20917417,
+URL: [https://doi.org.](https://zenodo.org/records/20917417)
+
 
 
 
