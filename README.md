@@ -1260,6 +1260,18 @@ Miguel Angel Franco Leon
 Independent researcher
 ORCID: 0009-0003-9492-385X
 Zenodo: https://zenodo.org/communities/mfsu-teg
+
+---
+
+## 👥 Connect & Collaborate
+
+* **Author:** Miguel Ángel Franco León (Independent Researcher)
+* **LinkedIn Professional Profile:** [🔗 miguel-angel-franco-leon](https://linkedin.com)
+* **ORCID Registry:** [🆔 0009-0004-9214-5390](https://orcid.org) 
+* **Official Archive (CERN/Zenodo vH3.1):** [🏛️ DOI 10.5281/zenodo.21129061](https://doi.org)
+
+
+
 Citation
 bibtex
 Copy
