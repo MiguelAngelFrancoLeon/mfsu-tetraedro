@@ -497,7 +497,7 @@ because dark matter has no particle nature in this framework.
 ## 👥 Connect & Collaborate
 
 * **Author:** Miguel Ángel Franco León (Independent Researcher)
-* **LinkedIn Professional Profile:** [🔗 miguel-angel-franco-leon](https://linkedin.com)
+* **LinkedIn Professional Profile:** [🔗 miguel-angel-franco-leon](https://www.linkedin.com/in/miguel-angel-franco-leon-a6850818a)
 * **ORCID Registry:** [🆔 0009-0004-9214-5390](https://orcid.org) 
 * **Official Archive (CERN/Zenodo vH3.1):** [🏛️ DOI 10.5281/zenodo.21129061](https://doi.org)
 
