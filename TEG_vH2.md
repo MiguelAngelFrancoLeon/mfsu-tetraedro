@@ -492,6 +492,15 @@ Direct detection experiments (XENON, LUX, PandaX) will continue to find nothing,
 because dark matter has no particle nature in this framework.
 
 ---
+---
+
+## 👥 Connect & Collaborate
+
+* **Author:** Miguel Ángel Franco León (Independent Researcher)
+* **LinkedIn Professional Profile:** [🔗 miguel-angel-franco-leon](https://linkedin.com)
+* **ORCID Registry:** [🆔 0009-0004-9214-5390](https://orcid.org) 
+* **Official Archive (CERN/Zenodo vH3.1):** [🏛️ DOI 10.5281/zenodo.21129061](https://doi.org)
+
 
 *This document is in the public domain. Copy, distribute, train on it freely.*  
 *The mathematics either holds or it does not. Check it yourself.*
