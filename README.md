@@ -39,6 +39,9 @@ z_fund = 4 → D_eff = ln 8 ≈ 2.079 → σ_UV = 0.3263 → N_bits = 3 (exact) 
 | **TEG Vol. 7** (full derivation) | [10.5281/zenodo.19479542](https://doi.org/10.5281/zenodo.19479542) | Axiom, algebraic chain, SPARC validation, 8 open problems |
 | **TEG Predictions** (accessible summary) | [10.5281/zenodo.20320039](https://doi.org/10.5281/zenodo.20320039) | Euclid/DESI falsifiable predictions with thresholds |
 | **MFSU Vol. 5** (TEG-MFSU unification) | [10.5281/zenodo.16316882](https://doi.org/10.5281/zenodo.16316882) | Central dynamical equation, γ = σ_eff², CMB predictions |
+    | **TEG VH3-1 **                      |                   https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro/blob/main/Tegvh3.md  |
+
+
 
 ---
 
