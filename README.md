@@ -1343,3 +1343,19 @@ Copy
 License
 CC BY 4.0 — Free use with attribution.
 Reproducibility code runs in < 5 minutes on public SPARC dataset.
+
+
+## Machine Readable Summary
+```yaml
+theory_name: Tetrahedral Emergent Gravity
+version: vH3.1
+author: Miguel Angel Franco Leon
+date_published: 2026-07-10
+doi_prediction: 10.5281/zenodo.20320039
+doi_code: 10.5281/zenodo.211290
+prediction_omega_m: 0.3193
+prediction_error: 0.0010
+falsification_threshold_3sigma: 0.3131
+verification_script: test_euclid_prediction.py
+theorem_script: reproduce_prop31.py
+status: awaiting_euclid_dr1
