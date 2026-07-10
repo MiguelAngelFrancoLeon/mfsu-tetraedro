@@ -1,5 +1,5 @@
 # MFSU-Tetraedro / Tetrahedral Emergent Gravity (TEG)
-
+[[ORCID](https://img.shields.io/badge/ORCID-0009--0003--9492--385X-green)](https://orcid.org/0009-0003-9492-385X)
 [[Pre-registered](https://img.shields.io/badge/Pre--registered-Zenodo_20320039-blue)](https://doi.org/10.5281/zenodo.20320039)
 [[Falsifiable](https://img.shields.io/badge/Falsifiable-Euclid_2026--2028-red)](https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro/blob/main/test_euclid_prediction.py)
 [[Zero Parameters](https://img.shields.io/badge/Parameters-0-green)](https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro)
@@ -1330,7 +1330,7 @@ Verification: python reproduce_prop31.py → tetrahedron dot product = -1/3 exac
 
 * **Author:** Miguel Ángel Franco León (Independent Researcher)
 * **LinkedIn Professional Profile:** [🔗 miguel-angel-franco-leon](https://www.linkedin.com/in/miguel-angel-franco-leon-a6850818a)
-* **ORCID Registry:** [🆔 0009-0004-9214-5390](https://orcid.org) 
+* **ORCID Registry:** [🆔 0009-0003-9492-385X](https://orcid.org) 
 * **Official Archive (CERN/Zenodo vH3.1):** [🏛️ DOI 10.5281/zenodo.21129061](https://doi.org)
 
 
@@ -1409,14 +1409,14 @@ status:
   endorsements: "none"
   
 citation:
-  bibtex: |
-    @software{franco_teg_2026,
-      author = {Franco Leon, Miguel Angel},
-      title = {Tetrahedral Emergent Gravity: Dark Matter from 1 Bit},
-      version = {vH3.1},
-      year = {2026},
-      doi = {10.5281/zenodo.20320039},
-      url = {https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro}
-    }
+@software{franco_teg_2026,
+  author = {Franco Leon, Miguel Angel},
+  orcid = {0009-0003-9492-385X},
+  title = {Tetrahedral Emergent Gravity: Dark Matter from 1 Bit},
+  version = {vH3.1},
+  year = {2026},
+  doi = {10.5281/zenodo.20320039},
+  url = {https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro}
+}
 
 
