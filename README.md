@@ -1278,6 +1278,49 @@ Zenodo: https://zenodo.org/communities/mfsu-teg
 
 ---
 
+Markdown
+# Tetrahedral Emergent Gravity (TEG) vH3.1
+
+> **STATUS: FALSIFIABLE** | **DOI: [10.5281/zenodo.20320039](https://doi.org/10.5281/zenodo.20320039)** | **Priority: 2026-07-10**
+
+## 🎯 FALSIFICATION TEST: EUCLID MISSION
+
+Ω_DM = 2 × ln(3/2) / 3 = 0.270310 [EXACT, NO FREE PARAMETERS]
+Ω_b = 0.0490 ± 0.0010 [BBN]
+─────────────────────────────────────
+Ω_m^TEG = 0.3193 ± 0.0010 [TOTAL MATTER]
+
+**This will be tested by ESA Euclid Telescope.**
+
+| Euclid Result | Verdict on TEG | Sigma |
+| --- | --- | --- |
+| **< 0.3131** | **REJECTED** | >3σ |
+| **0.3150 ± 0.0018** | **IN TENSION** | 2.1σ |
+| **0.3193 ± 0.0018** | **CONFIRMED** | <1σ |
+| **> 0.3234** | **ΛCDM IN TENSION** | >2σ |
+
+**Current separation from Planck ΛCDM (0.315): 0.6σ**  
+**Predicted separation with Euclid Full Mission: 2.4σ**
+
+### How to Verify Right Now
+```bash
+git clone https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro
+cd mfsu-tetraedro
+python test_euclid_prediction.py
+Why This Matters
+Zero free parameters: Ω_DM derived from 5-cell geometry, not fit to data
+Falsifiable by date: Euclid DR1 2026-2027, Full Mission 2028
+Pre-registered: DOI 10.5281/zenodo.20320039 before Euclid data release
+If wrong: TEG is dead. No excuses, no post-hoc tuning.
+📜 Core Theorem [Proven 2026-06-01]
+Theorem 3.1: In quaternionic space ℍ ≅ ℝ⁴, the unique regular simplex is the 5-cell.
+Under algebraic projection π_alg: S³ → ℝ³, the 5-cell projects to a regular tetrahedron.
+The lost vertex carries 1 bit of information: ∆S = ln(8) - ln(4) = ln(2).
+
+This 1 bit IS dark matter.
+
+Verification: python reproduce_prop31.py → tetrahedron dot product = -1/3 exact.
+
 ## 👥 Connect & Collaborate
 
 * **Author:** Miguel Ángel Franco León (Independent Researcher)
