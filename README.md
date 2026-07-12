@@ -77,7 +77,7 @@ This is the high-density limit test of TEG using the Milky Way Galactic Bulge. W
 
 **Main Result:** `Φ_TEG = 1.00000000` (exact, zero numerical deviation) across 7 radii using the Portail et al. 2017 density profile. Zero free parameters.
 
-- **Notebook (reproducible):** [`notebooks/teg_bulge_consistency_check.ipynb`](./notebooks/teg_bulge_consistency_check.ipynb)
+- **Notebook (reproducible):** [`notebooks/teg_bulge_consistency_check.ipynb`](./TEG_Euclid_Q2_Bulge_Consistency_Test.ipynb)
 - **DOI (Zenodo):** [10.5281/zenodo.20320039](https://doi.org/10.5281/zenodo.20320039)
 - **Data for future test:** Euclid Q2 EGBS - 60 Million Stars (Beaulieu et al. 2026, arXiv:2606.25883)
 - **Status:** Internal consistency check PASSED. Awaiting real Euclid Q2 data for observational confirmation. This is NOT a confirmation yet.
