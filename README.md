@@ -68,8 +68,19 @@ This result closes the theoretical coverage gap between diffuse galaxies $\rho \
 > Discriminating TEG from ΛCDM requires direct comparison of $V_{TEG}(r)$ against stellar rotation curves from the Euclid Q2 EGBS (60M stars, June 2026). That test is in progress.
 
 **Reproducibility:**
-- **Code:** [`notebooks/teg_bulge_consistency_check.ipynb`](./notebooks/teg_bulge_consistency_check.ipynb)
-- **Data:** Portail+2017, Table 2
+
+## [NEW - Jun 2026] TEG Euclid Q2 Bulge Consistency Test
+
+**TEG Euclid Q2 Bulge: Internal Consistency Verification in High-Density Regime**
+
+This is the high-density limit test of TEG using the Milky Way Galactic Bulge. We verify that TEG does not break in the densest stellar environment.
+
+**Main Result:** `Φ_TEG = 1.00000000` (exact, zero numerical deviation) across 7 radii using the Portail et al. 2017 density profile. Zero free parameters.
+
+- **Notebook (reproducible):** [`notebooks/teg_bulge_consistency_check.ipynb`](./notebooks/teg_bulge_consistency_check.ipynb)
+- **DOI (Zenodo):** [10.5281/zenodo.20320039](https://doi.org/10.5281/zenodo.20320039)
+- **Data for future test:** Euclid Q2 EGBS - 60 Million Stars (Beaulieu et al. 2026, arXiv:2606.25883)
+- **Status:** Internal consistency check PASSED. Awaiting real Euclid Q2 data for observational confirmation. This is NOT a confirmation yet.
 
 [![Bulge Test](https://img.shields.io/badge/TEG_Bulge-Mathematically_Consistent-blue)](https://github.com/tu-usuario/tu-repo#high-density-regime-internal-consistency-verification)
 
