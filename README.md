@@ -84,6 +84,11 @@ This is the high-density limit test of TEG using the Milky Way Galactic Bulge. W
 
 [![Bulge Test](https://img.shields.io/badge/TEG_Bulge-Mathematically_Consistent-blue)](https://github.com/tu-usuario/tu-repo#high-density-regime-internal-consistency-verification)
 
+*   **`teg_miguel_franco_bulbo.pdf`** ([🏛️ DOI 10.5281/zenodo.21350193](https://doi.org)): Technical note validating the high-density asymptotic limit ($\Phi_{\text{TEG}} \to 1$) to machine precision across 7 orders of magnitude ($\rho/\rho_c = 111 \rightarrow 1.3\times10^7$) using the independent Portail et al. (2017) Milky Way bulge profile. Outlines the definitive morphological core-vs-cusp falsification condition.
+*   **`teg_bulge_chameleon_limit.py`** / `teg_bulge_chameleon_verification.csv`: The companion validation pipeline generating the 500-point IEEE 754 float64 smooth precision array.
+
+
+
 ## Key documents
 
 | Document | DOI | Description |
