@@ -11,7 +11,17 @@
 
 **Core axiom:** The quantum vacuum in $\mathbb{R}^3$ selects tetrahedral network coordination $z_{\text{fund}} = 4$ by maximising holographic entropy density among all Platonic solids.
 
+## 🔷 NEW: Universal Geometric Constant Φ_F = 3 - ln8 ≈ 0.921
 
+> **Short Letter (July 2026) - One constant, three systems**
+> We derive Φ_F = 3 - ln8 = 0.920558... from a single axiom z_fund=4 and show it appears without tuning in IFCT fluids (δ_G=0.921), TEG gravity (∂=0.921, 171 SPARC galaxies) and DESI voids (-0.854±0.026).
+> Supersedes Zenodo 18044044 (2025) triple attempt, now with clean algebraic derivation.
+
+**📄 Paper:** [`TEG_Paper_Corto_PhiF.pdf`](./TEG_Paper_Corto_PhiF.pdf) (4 pages)
+**📜 Priority:** First report of δ_F ≈ 0.921 in Zenodo 18044044 (2025), unified derivation in this letter (2026)
+**DOI:** coming soon - Zenodo v9
+
+---
 ## Algebraic derivation chain (zero fitted parameters)
 z_fund = 4 → D_eff = ln 8 ≈ 2.079 → σ_UV = 0.3263 → N_bits = 3 (exact) → σ_eff = 0.1088
 
