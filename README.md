@@ -17,7 +17,7 @@
 > We derive Φ_F = 3 - ln8 = 0.920558... from a single axiom z_fund=4 and show it appears without tuning in IFCT fluids (δ_G=0.921), TEG gravity (∂=0.921, 171 SPARC galaxies) and DESI voids (-0.854±0.026).
 > Supersedes Zenodo 18044044 (2025) triple attempt, now with clean algebraic derivation.
 
-**📄 Paper:** [`TEG_Paper_Corto_PhiF.pdf`](./TEG_Paper_Corto_PhiF.pdf) (4 pages)
+**📄 Paper:** [`TEG_Paper_Corto_PhiF.pdf`](./PAPERS/TEG_v6_PhiF_TripleDerivation_Continuation.pdf) (4 pages)
 **📜 Priority:** First report of δ_F ≈ 0.921 in Zenodo 18044044 (2025), unified derivation in this letter (2026)
 **DOI:** coming soon - Zenodo v9
 
