@@ -6,7 +6,7 @@
 [![Falsifiable](https://img.shields.io/badge/Falsifiable-Euclid_2026--2028-red)](https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro/blob/main/test_euclid_prediction.py)
 [![Zero Parameters](https://img.shields.io/badge/Parameters-0-brightgreen)](https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20320039-blue)](https://doi.org/10.5281/zenodo.20320039)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21422955.svg)](https://doi.org/10.5281/zenodo.21422955) - Bulge pre-registration (July 2026)
 **Framework:** Unified Fractal-Stochastic Model (MFSU) + Tetrahedral Emergent Gravity (TEG)
 
 **Core axiom:** The quantum vacuum in $\mathbb{R}^3$ selects tetrahedral network coordination $z_{\text{fund}} = 4$ by maximising holographic entropy density among all Platonic solids.
