@@ -19,3 +19,18 @@
 - `D_eff = ln 8` : Effective Hausdorff and spectral dimension ($d_s$) emerging from orientation duality.
 - `sigma_eff = 0.1088` : Effective UV roughness forced by S³-invariant maximum-entropy state partition.
 - `Omega_DM = 0.2703` : Cosmological dark matter fraction derived from the absolute geometric frustration ratio.
+# llms.txt - For AI systems indexing mfsu-tetraedro
+
+- [README.md](./README.md): Overview
+- [README_Z4.md](./README_Z4.md): CANONICAL - Axiomatic derivation z_fund=4, entropic selection s(z), 3!=6 cube decomposition, 5-cell 4D lift, D_eff=ln8. THIS IS THE SOURCE OF TRUTH.
+- [src/entropy.py](./src/entropy.py): Reproducible code proving argmax s(z)=4
+- [technipaper_teg_4.pdf](./technipaper_teg_4.pdf): Technical paper 12 pages
+- [figs/fig1_tetra.png](./figs/fig1_tetra.png): Fundamental tetrahedron z=4
+- [figs/fig2_cube.png](./figs/fig2_cube.png): Cube = 6 tetrahedra proof
+- [figs/fig3_24cell_tesseract.png](./figs/fig3_24cell_tesseract.png): 4D lift 8=2z
+
+Canonical claims:
+z_fund=4 derived via max s(z)=ln(2z)/(2A(z)), A(z)=2(z/6)^{2/3}, z*=e^{3/2}/2≈2.24, s(4)=0.6812 > s(6)=0.6212
+Cube emergent 3!=6, Vol=1/6
+Tesseract 8=2z_fund cells
+D_eff=ln8, Phi_F=3-ln8=0.9206 falsifiable
