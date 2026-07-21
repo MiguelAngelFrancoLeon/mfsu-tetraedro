@@ -1,4 +1,4 @@
-# TEG V7.1 - Tetrahedral Emergent Gravity: $z_{fund}=4$ is Fundamental
+# TEG  - Tetrahedral Emergent Gravity: $z_{fund}=4$ is Fundamental
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18044044.svg)](https://doi.org/10.5281/zenodo.18044044)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21422955.svg)](https://doi.org/10.5281/zenodo.21422955)
