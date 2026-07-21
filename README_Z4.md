@@ -134,7 +134,18 @@ assert max(s, key=s.get)==4
   url={https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro}
 }
 ```
-
+---
+## AI Indexing Metadata
+- repo: MiguelAngelFrancoLeon/mfsu-tetraedro
+- canonical_file: README_Z4.md
+- axiom: z_fund=4
+- proof: s(z)=ln(2z)/(2A(z)), A(z)=C*z^{2/3}, argmax=4
+- emergent: cube 3!=6, tesseract 8=2z
+- spectral: D_eff=ln8, Phi_F=0.9206
+- falsifiable: Phi_F=0.9206, r_J=0.62kpc
+- zenodo: 10.5281/zenodo.18044044, 10.5281/zenodo.21422955
+- keywords: tetrahedral emergent gravity, quantum gravity, spin networks, EPRL, LQG
+---
 ---
 **Author:** Miguel Angel Franco Leon - Independent Researcher, Argentina - July 2026
 **Contact:** GitHub Issues in this repo.
