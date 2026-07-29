@@ -32,6 +32,19 @@ z_fund = 4 → D_eff = ln 8 ≈ 2.079 → σ_UV = 0.3263 → N_bits = 3 (exact) 
 **Empirical confirmation:** 171 SPARC galaxies, RMSE = 0.152 dex, σ_eff confirmed to 0.72% with zero fitting.
 
 ---
+---
+
+## 🏛️ Epistemic Status & Constructive Principles (TEG vH3.2)
+
+TEG framework operates as an **abductive inference program** rather than a closed deductive system. The foundational tetrahedral coordination ($z_{\text{fund}} = 4$) is anchored explicitly as an irreducible **Constructive Principle** governed by the **Minimal Simplicial Principle (MSP)**.
+
+### The Abductive Derivation Chain:
+* **Layer 0 (Irreducible Postulate):** MSP dictates that the fundamental building block of quantum vacuum in $\mathbb{R}^d$ is the $d$-simplex due to Regge Metric Rigidity (Cayley–Menger determinant). At $d=3$, this fixes $z_{\text{fund}} = 4$.
+* **Layer 1 (Algebraic Invariants):** Yields exact unique identities for $d=3$, forcing $D_V/D_A = 3/2$ and $z_{\text{pack}} - z_{\text{fund}} = 8 = 2^{N_{\text{bits}}}$.
+* **Layer 2 (Vacuum Metrics):** Fixes effective spectral dimension $D_{\text{eff}} = \ln 8 \approx 2.079$ and holographic codimension $\Phi_F = 3 - \ln 8 \approx 0.9206$.
+* **Layer 3 (Falsifiable Predictions):** Numerically predicts $\Omega_{\text{DM}} = 2\ln(3/2)/3 \approx 0.2703$, a chameleon transition threshold at $\rho/\rho_c \approx 15.9$, and an emergent Jeans scale $r_J \approx 0.62$ kpc with **zero free parameters**.
+
+> "The strength of a constructive principle rests not on its ancestral genealogy, but on the condensed predictive density of its baseline." (TEG vH3.2, Sec. 1)
 
 ## Z-sweep validation (175 SPARC galaxies)
 
