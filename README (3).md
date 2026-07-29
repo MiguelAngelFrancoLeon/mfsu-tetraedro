@@ -200,6 +200,8 @@ Both $r_J$ and the fractal dimension $\Phi_F = 3 - \ln 8 \approx 0.9206$ constit
 | $\mathbb{R}^4$ | not discussed | 5-cell, $D_4$, 8 cells $= 2z$ |
 | Number $\tau$ | undefined | $\Phi_F = 3 - \ln 8$, $r_J = 0.62$ kpc |
 | Falsifiable | No | Yes |
+
+
 ![24-cell and Tesseract](figs/fig3_24cell_tesseract.png)
 **Figure 3.** $\mathbb{R}^4$ Lift: 24-cell $D_4$ and Tesseract 4-cube as $2z_{\text{fund}}$ emergence. Left: 24-cell $\{3,4,3\}$, Schläfli symbol, 24 octahedral cells, 24 vertices, 96 edges, root system $D_4$ with 24 roots $|\vec{\alpha}| = \sqrt{2}$, self-dual. 3D Schlegel projection. Right: Tesseract $\{4,3,3\}$, 8 cubic cells $= 2z_{\text{fund}} = 8$, 16 vertices, 32 edges, $[-1,1]^4$. Center: Subgroup inclusion $A_3 \subset D_4$ (12 roots → 24 roots) proves tetrahedral $A_3$ (FCC) is subalgebra of $D_4$. Hence $z_{\text{fund}} = 4$ preserved in $\mathbb{R}^4$, hypercube is emergent with 8 cubic cells. $b_{or} = 2z_{\text{fund}}$ invariant across dimensions, $D_{\text{eff}} = \ln 8$.
 
