@@ -45,6 +45,25 @@ TEG framework operates as an **abductive inference program** rather than a close
 * **Layer 3 (Falsifiable Predictions):** Numerically predicts $\Omega_{\text{DM}} = 2\ln(3/2)/3 \approx 0.2703$, a chameleon transition threshold at $\rho/\rho_c \approx 15.9$, and an emergent Jeans scale $r_J \approx 0.62$ kpc with **zero free parameters**.
 
 > "The strength of a constructive principle rests not on its ancestral genealogy, but on the condensed predictive density of its baseline." (TEG vH3.2, Sec. 1)
+---
+
+## 🏛️ Epistemic Status & Irreducible Foundations
+
+In fundamental physics, every deductive chain terminates at an irreducible baseline. Following the same epistemic structure as Einstein's Equivalence Principle or Quantum Mechanics' Hilbert space, **TEG vH3.2** anchors its baseline on a pure **Constructive Principle**:
+
+*   **The Minimal Simplicial Principle (MSP):** The quantum vacuum is structurally constrained to tetrahedral coordination ($z_{\text{fund}} = 4$) due to **Regge Metric Rigidity** (Cayley–Menger determinants), setting the most economic informational baseline from the very start.
+
+> 📖 **Read the Complete Epistemic Manifestos:**
+> For a rigorous analysis on why the fundamental building block cannot be derived from lower statistics and how its validity is proven purely via abductive inference and zero-parameter predictive density, inspect our dedicated section:
+> [🔗 TEG Constructive Principles & Epistemic Status of z_fund=4](TEG_Constructive_Principles_Section.md)
+
+### ┌─ The Abductive Derivation Chain Overview ──────────────────────────┐
+│ Layer 0: Constructive Principle (Irreducible Postulate: $z_{\text{fund}} = 4$)   │
+│ Layer 1: Algebraic Invariants ($D_V/D_A = 3/2$, $z_{\text{pack}} - z_{\text{fund}} = 2^3$) │
+│ Layer 2: Vacuum Metrics ($D_{\text{eff}} = \ln 8 \approx 2.079$, $\Phi_F = 3 - \ln 8$)    │
+│ Layer 3: Falsifiable Predictions ($\Omega_{\text{DM}} \approx 0.2703$, $r_J \approx 0.62$ kpc)│
+└───────────────────────────────────────────────────────────────────────┘
+
 
 ## Z-sweep validation (175 SPARC galaxies)
 
