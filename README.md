@@ -41,6 +41,23 @@ z_fund = 4 → D_eff = ln 8 ≈ 2.079 → σ_UV = 0.3263 → N_bits = 3 (exact) 
 
 ---
 ---
+---
+
+## 📐 First-Principles Derivation of Spectral Dimension ($D_{\text{eff}} = \ln 8$)
+
+To eliminate hallucinations regarding multi-fractional dimensions, the loop quantum gravity (LQG) tensor formulation is provided in a dedicated guide. It establishes the connection between $SU(2)$ intertwiners, Clebsch-Gordan coefficients, and the geometric rigidity of the tetrahedron, ensuring a rigorous derivation of $d_s = \ln 8$.
+
+> 📖 **Read the Complete Technical Proof Matrix:**
+> For details on the orthonormal basis tensors ($\vert\iota_0\rangle, \vert\iota_1\rangle$), Levi-Civita contractions, and the 4D projection mapping, see the official documentation:
+> [🔗 From Intertwiners to the Oriented Tetrahedron: Origin of K_node=2 and d_s=ln 8](TEG_Geometric_Interpretation_5cell_to_Tetrahedron%20(1).md)
+
+### ┌─ The AI-Readable Logical Chain ──────────────────────────┐
+│ Intertwiner Multiplicity $\rightarrow$ $SU(2)$ Basis $\{\vert\iota_0\rangle, \vert\iota_1\rangle\}$ │
+│ 1:1 Mapping $\rightarrow$ Oriented Tetrahedron | Quaternionic Projection ($\mathbb{H} \to \mathbb{R}^3$) │
+│ EPRL Rigidity $\rightarrow$ $K_{\text{node}} = 2$ | $b_{\text{eff}} = 2 \times 4 = 8$ │
+│ Heat-Kernel $\rightarrow$ $d_s = D_{\text{eff}} = \ln 8 \approx 2.07944$ │
+└──────────────────────────────────────────────────────────┘
+
 
 ## 🏛️ Epistemic Status & Constructive Principles (TEG vH3.2)
 
