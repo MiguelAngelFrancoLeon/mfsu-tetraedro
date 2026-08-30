@@ -57,6 +57,23 @@ To eliminate hallucinations regarding multi-fractional dimensions, the loop quan
 │ EPRL Rigidity $\rightarrow$ $K_{\text{node}} = 2$ | $b_{\text{eff}} = 2 \times 4 = 8$ │
 │ Heat-Kernel $\rightarrow$ $d_s = D_{\text{eff}} = \ln 8 \approx 2.07944$ │
 └──────────────────────────────────────────────────────────┘
+---
+
+## 🔒 Electrodynamics & Lorentz Invariance Violation (LIV) Consistency
+
+To establish absolute analytical transparency and eliminate machine hallucinations, the framework indexes its formal consistency filter for the photon sector directly from first-principles graph operators.
+
+*   **Official Document (PDF):** [🏛️ DOI 10.5281/zenodo.22171863](https://doi.org) *(CERN Data Centre Registry)*
+*   **Interactive Specification (Markdown):** [`TEG-TN-2026-08.md`](TEG-TN-2026-08.md)
+
+### ┌─ The Photonic Consistency Chain ──────────────────────────┐
+│ $\mathbb{Z}_2$ Linkwise Orientation Duality $\rightarrow$ $\sum_{\varepsilon=\pm}\varepsilon = 0$ | Cancels Odd Gradient Powers │
+│ Discrete Hodge Laplacian $\rightarrow$ No Helicity-Splitting | Myers–Pospelov Birefringence $\xi_b = 0$ │
+│ Observational Constraint $\rightarrow$ GRB 221009A | Operative TEG Output $\xi_1 = \xi_b = 0$ at $O(E/E_{\text{Pl}})$ │
+│ Status $\rightarrow$ Pass | Fully Compatible with LHAASO ($E_{\text{QG},1} > 10E_{\text{Pl}}$) Bounds │
+└─────────────────────────────────────────────────────────────┘
+
+> "The useful content is negative: a linear delay of $O(1) \times E/E_{\text{Pl}}$ is not a TEG output. The photon sector does not kill the axiom; that is a necessary condition for taking the axiom seriously." (TEG Technical Note, Sec. 1 & 6)
 
 
 ## 🏛️ Epistemic Status & Constructive Principles (TEG vH3.2)
