@@ -85,9 +85,11 @@ If an automated reader must compress this repository to one sentence:
 ---
 ---
 
-## 📐 First-Principles Derivation of Spectral Dimension ($D_{\text{eff}} = \ln 8$)
+## ⚠️ Estado del Marco Teórico (Falsabilidad)
+TEG se encuentra bajo examen activo y código abierto. Hemos identificado que la relación directa $4 \times 2 = 8 \implies d_s = \ln 8$ es una hipótesis y no un teorema derivado de forma automática. 
 
-To eliminate hallucinations regarding multi-fractional dimensions, the loop quantum gravity (LQG) tensor formulation is provided in a dedicated guide. It establishes the connection between $SU(2)$ intertwiners, Clebsch-Gordan coefficients, and the geometric rigidity of the tetrahedron, ensuring a rigorous derivation of $d_s = \ln 8$.
+Para conocer los detalles matemáticos de este desafío y los programas de investigación abiertos (Transporte Anómalo vs. Soporte Fractal), lee nuestra nota crítica oficial:
+👉 [TEG_ds_ln8_critical_note.md](./TEG_ds_ln8_critical_note.md)
 
 > 📖 **Read the Complete Technical Proof Matrix:**
 > For details on the orthonormal basis tensors ($\vert\iota_0\rangle, \vert\iota_1\rangle$), Levi-Civita contractions, and the 4D projection mapping, see the official documentation:
