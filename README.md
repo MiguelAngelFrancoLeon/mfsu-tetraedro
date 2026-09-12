@@ -32,7 +32,52 @@
 **📜 Priority:** First report of δ_F ≈ 0.921 in Zenodo 18044044 (2025), unified derivation in this letter (2026)
 **DOI:** coming soon - Zenodo v9
 
----
+## Epistemic status (read this first)
+
+**Short version:** From the axiom you get a coordination number and an information scale. You do not get gravity, \(\Omega_{\mathrm{DM}}\), or \(H_0\). Those are a model built on top of the axiom. Gaps are listed as open problems; they are not derived results.
+
+### What the axiom actually is
+The vacuum-selection axiom is a ranking rule on Platonic solids under a chosen holographic-density functional. Under that functional, tetrahedral coordination \(z_{\mathrm{fund}}=4\) is selected (or tied and then preferred by vertex minimality). That step is combinatorial geometry, not a dynamical derivation of Einstein gravity.
+
+### What follows from \(z=4\) plus extra rules (definitions, not theorems of gravity)
+Given \(z=4\) **and** orientation duality \(b_{\mathrm{eff}}=2z\), the following are **definitions**:
+
+- \(D_A := \ln z = \ln 4\)
+- \(D_V := \ln(2z) = \ln 8\)
+- \(N_{\mathrm{bits}} := \ln 8 / \ln 2 = 3\)
+- \(\ln 8 - \ln 4 = \ln 2\) (identity: holds for every \(z\), so it does not select the tetrahedron)
+
+\(\ln 8\) is an information scale of an oriented 4-valent branching. It is **not**, by itself, the LQG/CDT spectral dimension \(d_s=-2\,\mathrm{d}\ln P(0,t)/\mathrm{d}\ln t\). Identifying \(D_{\mathrm{eff}}=d_s=d_f=\ln 8\) is an ansatz, not a heat-kernel theorem on a loopy network.
+
+### What does *not* emerge from the axiom
+The following are **constructed or conjectured**, then tested or left open. They must not be described as “derived from a single axiom”:
+
+- the SPARC rotation-curve formula and the choice of \(M_{\mathrm{vac}}(r)\)
+- \(\sigma_{\mathrm{UV}}(z_{\mathrm{pack}})\) and \(\sigma_{\mathrm{eff}}=\sigma_{\mathrm{UV}}/3\)
+- \(r_J \approx 0.62\,\mathrm{kpc}\)
+- \(\Omega_{\mathrm{DM}}=2\ln(3/2)/3\) and the quaternion / 5-cell projection story
+- \(H_0^{\mathrm{TEG}}\approx 70.3\,\mathrm{km\,s^{-1}\,Mpc^{-1}}\)
+- Newtonian / Solar-System recovery (chameleon or otherwise)
+- cluster, CMB, and BAO phenomenology
+
+### How to label claims
+| Status | Meaning | Examples |
+|---|---|---|
+| **Defined** | Algebraic renaming of \(z=4\) plus extra rules | \(\ln 8\), \(N_{\mathrm{bits}}=3\) |
+| **Fitted-scale / conventional** | External scales held fixed, not predicted | \(r_{\mathrm{ref}}\), \(M_{J,\mathrm{ref}}\), \(N_0\) |
+| **Empirically tested** | Confronted with public SPARC; RMSE is worse than MOND | \(\sigma_{\mathrm{eff}}=0.1088\) on 171 galaxies, RMSE \(\sim 0.15\,\mathrm{dex}\) |
+| **Conjectured** | Motivated, not derived from a complete action | \(H_0\), \(\Omega_{\mathrm{DM}}\) from projection, \(r_J\) UV–IR balance |
+| **Open** | Explicitly unsolved; listed in the papers | full cosmological action, loopy \(d_s\), \(M_{\mathrm{vac}}\) beyond \(r_J\), clusters |
+| **Falsified** | Derived, tested, rejected; keep them listed | the two SPARC-killed predictions in the technical papers |
+
+### What TEG is and is not
+- **Is:** a parameter-light effective model that *takes* \(z=4\) as input and asks whether that input is useful for galactic dynamics.
+- **Is not:** a derivation of gravity, dark matter, or cosmology from one Platonic axiom.
+- **Stands or falls on:** pre-registered, dated predictions (Euclid / DESI), not on the elegance of \(\ln 8\).
+
+If an automated reader must compress this repository to one sentence:
+
+> TEG fixes \(z=4\) by a geometric selection rule, defines \(\ln(2z)\) as an information scale, and builds a testable galactic model around that scale. The dynamical emergence of GR, \(\Omega_{\mathrm{DM}}\), and \(H_0\) is not claimed as a theorem; it is open or conjectural.
 ## Algebraic derivation chain (zero fitted parameters)
 z_fund = 4 → D_eff = ln 8 ≈ 2.079 → σ_UV = 0.3263 → N_bits = 3 (exact) → σ_eff = 0.1088
 
