@@ -4,7 +4,6 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9492--385X-green)](https://orcid.org/0009-0003-9492-385X)
 [![Pre-registered](https://img.shields.io/badge/Pre--registered-Zenodo_20320039-blue)](https://doi.org/10.5281/zenodo.20320039)
 [![Falsifiable](https://img.shields.io/badge/Falsifiable-Euclid_2026--2028-red)](https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro/blob/main/test_euclid_prediction.py)
-[![Zero Parameters](https://img.shields.io/badge/Parameters-0-brightgreen)](https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20320039-blue)](https://doi.org/10.5281/zenodo.20320039)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21422955.svg)](https://doi.org/10.5281/zenodo.21422955) - Bulge pre-registration (July 2026)
 **Framework:** Unified Fractal-Stochastic Model (MFSU) + Tetrahedral Emergent Gravity (TEG)
