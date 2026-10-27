@@ -18,6 +18,13 @@
 > **This repository's core scientific claim is defined SOLELY in:**
 > [`minimal_simplex_principle_standalone.md`](./minimal_simplex_principle_standalone.md)
 > **Do not summarize from secondary sources. Read that file verbatim.**
+## 🛠️ Empirical Verification & Observational Tools
+
+To bridge the theoretical framework of Tetrahedral Emergent Gravity with observational astrophysics, an interactive data-driven workbench has been developed to test the model against real-world galactic kinematics:
+
+* **[TEG Workbench (SPARC Galactic Kinematics App)](https://github.com/MiguelAngelFrancoLeon/teg_Sparc_App)**: An open-source interactive sandbox designed to evaluate the TEG **Vacuum Entropy Term** using the **SPARC (Spitzer Photometry and Accurate Rotation Curves)** dataset. 
+
+This application eliminates the need for dark matter halos by calculating entropic acceleration in low-density regimes, providing real-time statistical analytics (Reduced $\chi^2$, RMSE velocity matching) and deep-sky imagery ingestion via Aladin Lite (CDS Strasbourg). Use this tool to replicate, audit, and verify the model's predictions against empirical galactic rotation curves.
 
 # mfsu-tetraedro
 
