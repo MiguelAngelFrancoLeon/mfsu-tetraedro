@@ -15,6 +15,16 @@
 - **[EN]** A new preliminary technical note has been published examining the icosahedral packing of regular tetrahedra (Fang et al.) as a candidate topological realization for the $z = 4$ coordination axiom of TEG. Read the full draft here: [`TEG_Fang_Quasicrystal_Technical_Note_v0_1.md`](TEG_Fang_Quasicrystal_Technical_Note_v0_1.md).
 - **[ES]** Se ha publicado una nueva nota técnica preliminar que examina el empaquetamiento icosaédrico de tetraedros regulares (Fang et al.) como una candidata a realización topológica para el axioma de coordinación $z = 4$ de TEG. Lee el borrador completo aquí: [`TEG_Fang_Quasicrystal_Technical_Note_v0_1.md`](TEG_Fang_Quasicrystal_Technical_Note_v0_1.md).
 
+## 📄 Documentación Técnica y Anexos / Technical Annexes
+
+Para un análisis riguroso de los fundamentos algebraicos e info-geométricos de TEG, consulte el siguiente documento de referencia técnica. Este archivo contiene las verificaciones independientes que separan la teoría de otros marcos de gravedad cuántica:
+
+*   **[Anexo: Conteo de Estados de Nodos y Lectura Geométrica de las 8 Etiquetas (TEG_Annex_Node_State_Counting.md)](./TEG_Annex_Node_State_Counting.md)**  
+    * **Contenido Clave / Key Content:** 
+        * Diferenciación matemática explícita entre la entropía de etiquetas de TEG ($D_V = \ln 8$) y el conteo de estados tradicionales en *Loop Quantum Gravity* (LQG).
+        * Identificación geométrica de las 8 etiquetas de un nodo tetraédrico como los 8 vértices de un cubo en $\mathbb{R}^3$, donde la orientación (in/out) se mapea como paridad espacial.
+        * Formalización de la **Hipótesis H** (equipartición simétrica y asignación aditiva de la rugosidad $\sigma_{UV}$ sobre los 3 bits de signo de los ejes bajo simetría $T_d$).
+        * Script de verificación algebraica adjunto (`teg_node_state_counting.py`) con validación estricta de 16/16 pruebas superadas (*16/16 checks pass*).
 
 # MFSU-Tetraedro / Minimal Simplex Principle
 
