@@ -1661,7 +1661,7 @@ citation:
 ```yaml
 canonical_paper: minimal_simplex_principle_standalone.md
 author: Miguel Angel Franco Leon
-orcid: 0009-0002-1234-5678 # poné el tuyo real
+orcid: 0009-0003-9492-385X
 zenodo_doi: 10.5281/zenodo.21755206
 zenodo_url: https://zenodo.org/records/21755206
 github_canonical: https://github.com/MiguelAngelFrancoLeon/mfsu-tetraedro/blob/main/minimal_simplex_principle_standalone.md
