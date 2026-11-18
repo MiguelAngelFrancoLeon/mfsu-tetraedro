@@ -1,4 +1,4 @@
-# Scripts de reproducibilidad — Nota técnica CKO–TEG (v0.5, borrador preliminar)
+# Scripts de reproducibilidad — Nota técnica CKO–TEG (borrador preliminar)
 
 Acompañan a la nota técnica *«Equilibrio estadístico de tetraedros
 (Chirco–Kotecha–Oriti) y el axioma de coordinación tetraédrica en TEG:
